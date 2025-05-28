@@ -11,7 +11,7 @@ import SwiftUI
 struct KimlikFormV2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainMenuView()
         }
     }
 }
